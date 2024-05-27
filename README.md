@@ -1,2 +1,2 @@
 # HomePage
-Um wireframe de um E-commerce para o certificado da DIO
+Esta Homepage de um E-Commerce foi desenvolvido utilizando as ferramentas Figma e Photoshop
